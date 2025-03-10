@@ -11,5 +11,6 @@
 </p>
 <h3> 💬 Blog </h3>
 <p>
-  <a href="https://velog.io/@hjini"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp  
+<!--   <a href="https://velog.io/@hjini"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp  
 </p>
