@@ -17,5 +17,4 @@
 <p>
   <a href="https://heejinyang.notion.site/234ac29c8d2380ea9865f704dcb9cf1e"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://velog.io/@hjini"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://hjini2.tistory.com"><img src="https://img.shields.io/badge/Tistory-F36C3D?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
